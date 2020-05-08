@@ -8,6 +8,10 @@ date: 2020-01
 location: "Palaiseau, France"
 ---
 
+
+Master 2 Data Science
+======
+
 Assistant Professor
 + Introduction to image processing
 + Introduction to computer vision
