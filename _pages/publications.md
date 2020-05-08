@@ -15,6 +15,6 @@ author_profile: true
 #   {% include archive-single.html %}
 # {% endfor %}
 
-[CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)
-Arthur Ouaknine, Alasdair Newson, Julien Rebut, Florence Tupin, Patrick Pérez
+[CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations](https://arxiv.org/abs/2005.01456)  
+Arthur Ouaknine, Alasdair Newson, Julien Rebut, Florence Tupin, Patrick Pérez  
 *ArXiv 2020*
