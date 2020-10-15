@@ -1,6 +1,6 @@
 ---
 title: "CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations"
-excerpt: "<br/><center><img src='/images/carrada.png'></center>"
+excerpt: "<br/><img src='/images/carrada.png'>"
 collection: codeanddata
 permalink: /codeanddata/carrada
 ---
