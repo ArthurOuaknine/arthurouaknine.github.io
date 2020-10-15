@@ -2,6 +2,7 @@
 title: "CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations"
 excerpt: "<br/><img src='/images/carrada.png'>"
 collection: codeanddata
+permalink: /codeanddata/carrada
 ---
 
 [Arthur Ouaknine](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Patrick Pérez](https://ptrckprz.github.io/)
