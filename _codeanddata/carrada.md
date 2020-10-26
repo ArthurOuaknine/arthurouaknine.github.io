@@ -9,13 +9,17 @@ permalink: /codeanddata/carrada
 
 Accepted at ICPR 2020
 
+---
+
 <center><b>Abstract</b></center>
 
 <div style="text-align: justify">High quality perception is essential for autonomous driving (AD) systems. To reach the accuracy and robustness that are required by such systems, several types of sensors must be combined. Currently, mostly cameras and laser scanners (lidar) are deployed to build a representation of the world around the vehicle. While radar sensors have been used for a long time in the automotive industry, they are still under-used for AD despite their appealing characteristics (notably, their ability to measure the relative speed of obstacles and to operate even in adverse weather conditions). To a large extent, this situation is due to the relative lack of automotive datasets with real radar signals that are both raw and annotated. In this work, we introduce CARRADA, a dataset of synchronized camera and radar recordings with range-angle-Doppler annotations. We also present a semi-automatic annotation approach, which was used to annotate the dataset, and a radar semantic segmentation baseline, which we evaluate on several metrics.</div>
 
+---
 
-Code and dataset are comming soon.
+The **code** is available on Github: [https://github.com/valeoai/carrada_dataset](https://github.com/valeoai/carrada_dataset)
 
+**Access the CARRADA dataset using the following link: [download](http://download.tsi.telecom-paristech.fr/Carrada/Carrada.tar.gz).**
 
 If you find this code or the dataset useful for your research, please cite our [paper](https://arxiv.org/pdf/2005.01456.pdf):
 ```
