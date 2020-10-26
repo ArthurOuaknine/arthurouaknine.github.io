@@ -10,4 +10,4 @@ location: "Palaiseau, France"
 
 Co-supervisor of research student projects:
 + SAR image denoising using SoTA method [FFDNet](https://arxiv.org/pdf/1710.04026.pdf).
-+ Temporal radar semantic segmentatation.
++ Temporal radar semantic segmentation.
