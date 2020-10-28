@@ -1,7 +1,7 @@
 ---
 title: 'Review of Deep Learning Algorithms for Image Classification'
 date: 2018-01-16
-permalink: /posts/2018/01/image-classification/
+permalink: /blog-posts/2018/01/image-classification/
 tags:
   - Image Classification
   - Deep Learning

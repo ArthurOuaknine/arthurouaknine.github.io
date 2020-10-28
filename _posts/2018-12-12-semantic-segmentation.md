@@ -1,7 +1,7 @@
 ---
 title: 'Review of Deep Learning Algorithms for Image Semantic Segmentation'
 date: 2018-12-11
-permalink: /posts/2018/12/semantic-segmentation/
+permalink: /blog-posts/2018/12/semantic-segmentation/
 tags:
   - Semantic Segmentation
   - Deep Learning

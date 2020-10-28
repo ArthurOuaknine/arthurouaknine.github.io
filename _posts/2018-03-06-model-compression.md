@@ -1,7 +1,7 @@
 ---
 title: 'Deep Learning Model Compression for Image Analysis: Methods and Architectures'
 date: 2018-03-06
-permalink: /posts/2018/03/model-compression/
+permalink: /blog-posts/2018/03/model-compression/
 tags:
   - Model Compression
   - Deep Learning

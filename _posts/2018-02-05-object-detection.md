@@ -1,7 +1,7 @@
 ---
 title: 'Review of Deep Learning Algorithms for Object Detection'
 date: 2018-02-05
-permalink: /posts/2018/02/object-detection/
+permalink: /blog-posts/2018/02/object-detection/
 tags:
   - Object Detection
   - Deep Learning
