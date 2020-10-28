@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : google-site-verification=AJZwIdBXh2PmPEJWtEz4ED2AhbaLCUi-qw-JZIxNx0Q
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -197,7 +197,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: blog-posts
     values:
       layout: single
       author_profile: true
