@@ -19,6 +19,9 @@ I co-organize the Deep Learning Working Group of the IMAGES Team (Télécom Pari
 
 News
 ======
-- 10/2020: First paper accepted to ICPR 2020 !
+- 04/2021: A new version of CARRADA is available! Have a lot to the repo [here](https://github.com/valeoai/carrada_dataset).
+- 04/2021: New preprint available on ArXiv: Multi-View Radar Semantic Segmentation.
+- 01/2021: The paper of CARRADA has been presented in a poster session of ICPR 2020.
+- 10/2020: First paper accepted to ICPR 2020!
 
 
