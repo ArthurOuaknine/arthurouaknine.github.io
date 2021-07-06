@@ -19,6 +19,7 @@ I co-organize the Deep Learning Working Group of the IMAGES Team (Télécom Pari
 
 News
 ======
+- 07/2021: Last but not least, the RAD tensors of the CARRADA dataset are now available. 
 - 05/2021: Code for Multi-View Radar Semantic Segmentation (MVRSS) and pretrained models have been publicly released on github [here](https://github.com/valeoai/MVRSS).
 - 04/2021: A new version of CARRADA is available! Have a look to the repo [here](https://github.com/valeoai/carrada_dataset).
 - 04/2021: New preprint available on ArXiv: Multi-View Radar Semantic Segmentation.
