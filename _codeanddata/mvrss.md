@@ -7,7 +7,7 @@ permalink: /codeanddata/mvrss
 
 [Arthur Ouaknine](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Patrick Pérez](https://ptrckprz.github.io/)
 
-Preprint under review, ArXiv 2021.
+ICCV 2021.
 
 ---
 

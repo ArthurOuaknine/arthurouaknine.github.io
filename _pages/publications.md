@@ -17,7 +17,7 @@ author_profile: true
 
 [Multi-View Radar Semantic Segmentation](https://arxiv.org/abs/2103.16214)  
 [Arthur Ouaknine](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Patrick Pérez](https://ptrckprz.github.io/), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr)  
-*Preprint, ArXiv 2021*  
+*ICCV 2021*  
 
 
 
