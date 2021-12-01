@@ -17,10 +17,7 @@ Accepted at ICPR 2020
 
 ---
 
-<img src='/images/carrada.png';
-width: 80%;
-height: auto;
-class="center">
+<img src='/images/carrada.png' class="center">
 
 
 The **code** is available on Github: [https://github.com/valeoai/carrada_dataset](https://github.com/valeoai/carrada_dataset)

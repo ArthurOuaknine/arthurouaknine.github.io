@@ -17,10 +17,7 @@ ICCV 2021.
 
 ---
 
-<img src='/images/mvrss_teaser.png';
-width: 80%;
-height: auto;
-class="center">
+<img src='/images/mvrss_teaser.png' class="center">
 
 
 The **code** and **pretrained models** are available on Github: [https://github.com/valeoai/MVRSS](https://github.com/valeoai/MVRSS)
