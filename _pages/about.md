@@ -16,7 +16,7 @@ I graduated from M.Sc. Machine Learning and Big Data at [Télécom Paris](https:
 
 I co-organize the Deep Learning Working Group of the IMAGES Team (Télécom Paris). Presentations are available [here](https://dlwgtelecomparis.github.io/).
 
-**Annonce**: I am currently looking for a post-doc or a ML research position on deep learning methods applied to climate change issues (forest management, deforestation detection, wildfire detection, greenhouse gas emission estimation). Position sought for September/October 2022.
+**Announcement**: I am currently looking for a post-doc or a ML research position on deep learning methods applied to climate change issues (forest management, deforestation detection, wildfire detection, greenhouse gas emission estimation). Position sought for September/October 2022.
 
 
 News
