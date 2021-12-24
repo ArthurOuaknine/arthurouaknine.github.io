@@ -19,7 +19,7 @@ author_profile: true
 Raw High-Definition Radar for Multi-Task Learning
 [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr), [**Arthur Ouaknine**](https://arthurouaknine.github.io/), Waqas Malik, [Patrick Pérez](https://ptrckprz.github.io/)  
 *Preprint, under review*
-[[paper](https://arxiv.org/abs/2112.10646)][[code](https://github.com/valeoai/radial)]  
+[[paper](https://arxiv.org/abs/2112.10646)][[code and data](https://github.com/valeoai/radial)]  
 
 
 Multi-View Radar Semantic Segmentation  
