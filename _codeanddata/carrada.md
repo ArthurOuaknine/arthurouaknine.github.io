@@ -26,6 +26,8 @@ The **code** is available on Github: [https://github.com/valeoai/carrada_dataset
 - Carrada.tar.gz (23GB): synchronized camera and radar views with generated annotations and materials for the semi-automatic pipeline
 - Carrada_RAD.tar.gz (176GB): RAD tensor per sequence only
 
+The **poster** presented at ICPR is available: [here](https://arthurouaknine.github.io/files/ICPR2021_poster).  
+
 If you find this code or the dataset useful for your research, please cite our [paper](https://arxiv.org/pdf/2005.01456.pdf):
 ```
 @INPROCEEDINGS{9413181,

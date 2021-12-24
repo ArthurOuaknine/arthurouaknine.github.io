@@ -20,8 +20,9 @@ ICCV 2021.
 <img src='/images/mvrss_teaser.png' class="center">
 
 
-The **code** and **pretrained models** are available on Github: [https://github.com/valeoai/MVRSS](https://github.com/valeoai/MVRSS)
+The **code** and **pretrained models** are available on Github: [https://github.com/valeoai/MVRSS](https://github.com/valeoai/MVRSS)  
 
+The **poster** presented at ICCV is available: [here](https://arthurouaknine.github.io/files/ICCV2021_poster).  
 
 If you find this code or the dataset useful for your research, please cite our [paper](https://arxiv.org/pdf/2103.16214.pdf):
 ```
