@@ -24,6 +24,7 @@ author_profile: true
 
 ![this is a test](/images/mvrss_teaser.png){: style="float: left"}
 
+<img src='/images/mvrss_teaser.png' class="float: left;" width="50"/>
 **Multi-View Radar Semantic Segmentation**  
 [**Arthur Ouaknine**](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Patrick Pérez](https://ptrckprz.github.io/), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr)  
 *ICCV 2021*  
