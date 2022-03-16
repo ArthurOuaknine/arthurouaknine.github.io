@@ -16,18 +16,21 @@ I graduated from M.Sc. Machine Learning and Big Data at [Télécom Paris](https:
 
 I co-organize the Deep Learning Working Group of the IMAGES Team (Télécom Paris). Presentations are available [here](https://dlwgtelecomparis.github.io/).
 
-**Announcement**: I am currently looking for a post-doc or a ML research position on deep learning methods applied to climate change mitigation (forest management, deforestation detection, wildfire detection, greenhouse gas emission estimation). Position sought for September/October 2022.
+**Announcement**: I am currently looking for a post-doc or a ML research position on deep learning methods applied to climate change mitigation (forest management, deforestation detection, wildfire detection, greenhouse gas emission estimation).  
 
 
 News
 ======
-- 12/2021: New preprint available on ArXiv: Raw High-Definition Radar for Multi-Task Learning. The new RADIal dataset and the code of our proposed deep learning model are available on the github repo!  
-- 08/2021: Our work on multi-view radar semantic segmentation has been accepted at ICCV 2021!
-- 07/2021: Last but not least, the RAD tensors of the CARRADA dataset are now available. 
-- 05/2021: Code for Multi-View Radar Semantic Segmentation (MVRSS) and pretrained models have been publicly released on github [here](https://github.com/valeoai/MVRSS).
-- 04/2021: A new version of CARRADA is available! Have a look to the repo [here](https://github.com/valeoai/carrada_dataset).
-- 04/2021: New preprint available on ArXiv: Multi-View Radar Semantic Segmentation.
-- 01/2021: The paper of CARRADA has been presented in a poster session of ICPR 2020.
-- 10/2020: First paper accepted to ICPR 2020!
+- *03/2022*: our recent work "Raw High-Definition Radar for Multi-Task Learning" has been accepted at CVPR 2022!  
+<br>
+- *12/2021*: New preprint available on ArXiv: "Raw High-Definition Radar for Multi-Task Learning". The new RADIal dataset and the code of our proposed deep learning model are available on the github repo!
+<br>
+- *08/2021*: Our work on multi-view radar semantic segmentation has been accepted at ICCV 2021!
+- *07/2021*: Last but not least, the RAD tensors of the CARRADA dataset are now available. 
+- *05/2021*: Code for Multi-View Radar Semantic Segmentation (MVRSS) and pretrained models have been publicly released on github [here](https://github.com/valeoai/MVRSS).
+- *04/2021*: A new version of CARRADA is available! Have a look to the repo [here](https://github.com/valeoai/carrada_dataset).
+- *04/2021*: New preprint available on ArXiv: Multi-View Radar Semantic Segmentation.
+- *01/2021*: The paper of CARRADA has been presented in a poster session of ICPR 2020.
+- *10/2020*: First paper accepted to ICPR 2020!
 
 
