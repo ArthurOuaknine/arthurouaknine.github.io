@@ -21,7 +21,7 @@ During my Ph.D., I co-organized the Deep Learning Working Group of the IMAGES Te
 
 News
 ======
-- *03/2022*: Finally defended by PhD, the manuscript is avaiable [here](https://arxiv.org/abs/2203.08038).  
+- *03/2022*: Finally defended by PhD, the manuscript is available [here](https://arxiv.org/abs/2203.08038).  
 <br>
 - *03/2022*: our recent work ``Raw High-Definition Radar for Multi-Task Learning" has been accepted at CVPR 2022!  
 <br>
