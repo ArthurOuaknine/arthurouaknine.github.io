@@ -22,6 +22,8 @@ author_profile: true
 [[paper](https://arxiv.org/abs/2112.10646)][[code and data](https://github.com/valeoai/radial)]  
 
 
+![this is a test](/images/mvrss_teaser.png){: style="float: left"}
+
 **Multi-View Radar Semantic Segmentation**  
 [**Arthur Ouaknine**](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Patrick Pérez](https://ptrckprz.github.io/), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr)  
 *ICCV 2021*  
