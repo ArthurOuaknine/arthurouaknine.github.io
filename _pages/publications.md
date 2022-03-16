@@ -17,23 +17,28 @@ author_profile: true
 
 
 **Raw High-Definition Radar for Multi-Task Learning**  
-[Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr), [**Arthur Ouaknine**](https://arthurouaknine.github.io/), Waqas Malik, [Patrick Pérez](https://ptrckprz.github.io/)  
-*Preprint, under review*  
+Julien Rebut, **Arthur Ouaknine**, Waqas Malik, Patrick Pérez.  
+*CVPR 2022*  
 [[paper](https://arxiv.org/abs/2112.10646)][[code and data](https://github.com/valeoai/radial)]  
 
 
 
-<div>
-<img src='/images/mvrss_teaser.png' class="float: left;" width="100"/>
-<p **Multi-View Radar Semantic Segmentation**  
-[**Arthur Ouaknine**](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Patrick Pérez](https://ptrckprz.github.io/), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr)  
+**Multi-View Radar Semantic Segmentation**  
+**Arthur Ouaknine**, Alasdair Newson, Patrick Pérez, Florence Tupin, Julien Rebut.  
 *ICCV 2021*  
 [[page](https://arthurouaknine.github.io/codeanddata/mvrss)][[paper](https://arxiv.org/abs/2103.16214)][[code](https://github.com/valeoai/MVRSS)][[poster](https://arthurouaknine.github.io/files/posters/ICCV2021_poster.pdf)]  
-</p>
-</div>
 
 
 **CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations**  
-[**Arthur Ouaknine**](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Patrick Pérez](https://ptrckprz.github.io/)  
+**Arthur Ouaknine**, Alasdair Newson, Julien Rebut, Florence Tupin, Patrick Pérez.  
 *ICPR 2020*  
-[[page](https://arthurouaknine.github.io/codeanddata/carrada)][[paper](https://arxiv.org/abs/2005.01456)][[code](https://github.com/valeoai/carrada_dataset)][[dataset](https://arthurouaknine.github.io/codeanddata/carrada)][[poster](https://arthurouaknine.github.io/files/posters/ICPR2020_poster.pdf)]  
+[[page](https://arthurouaknine.github.io/codeanddata/carrada)][[paper](https://arxiv.org/abs/2005.01456)][[code](https://github.com/valeoai/carrada_dataset)][[dataset](https://arthurouaknine.github.io/codeanddata/carrada)][[poster](https://arthurouaknine.github.io/files/posters/ICPR2020_poster.pdf)]
+
+
+---
+
+## Thesis
+
+**Deep learning for radar data exploitation of autonomous vehicle**  
+**Arthur Ouaknine**  
+[[Thesis](https://arxiv.org/abs/2203.08038)]  
