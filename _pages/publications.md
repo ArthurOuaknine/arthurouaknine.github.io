@@ -22,14 +22,15 @@ author_profile: true
 [[paper](https://arxiv.org/abs/2112.10646)][[code and data](https://github.com/valeoai/radial)]  
 
 
-![this is a test](/images/mvrss_teaser.png){: style="float: left"}
 
-<img src='/images/mvrss_teaser.png' class="float: left;" width="50"/>
-**Multi-View Radar Semantic Segmentation**  
+<div>
+<img src='/images/mvrss_teaser.png' class="float: left;" width="100"/>
+<p **Multi-View Radar Semantic Segmentation**  
 [**Arthur Ouaknine**](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Patrick Pérez](https://ptrckprz.github.io/), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr)  
 *ICCV 2021*  
 [[page](https://arthurouaknine.github.io/codeanddata/mvrss)][[paper](https://arxiv.org/abs/2103.16214)][[code](https://github.com/valeoai/MVRSS)][[poster](https://arthurouaknine.github.io/files/posters/ICCV2021_poster.pdf)]  
-
+</p>
+</div>
 
 
 **CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler Annotations**  
