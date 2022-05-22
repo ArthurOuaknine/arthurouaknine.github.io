@@ -21,9 +21,11 @@ During my Ph.D., I co-organized the Deep Learning Working Group of the IMAGES Te
 
 News
 ======
+- *04/2022*: My 2021 ICPR and ICCV articles have been quoted at the Nvidia GTC by Geoffrey Bouquot, group CTO and VP at Valeo. Link of the presentation is [here](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42391/).
+<br>
 - *03/2022*: Finally defended my PhD, the manuscript is available [here](https://arxiv.org/abs/2203.08038).  
 <br>
-- *03/2022*: our recent work ``Raw High-Definition Radar for Multi-Task Learning" has been accepted at CVPR 2022!  
+- *03/2022*: Our recent work ``Raw High-Definition Radar for Multi-Task Learning" has been accepted at CVPR 2022!  
 <br>
 - *12/2021*: New preprint available on ArXiv: ``Raw High-Definition Radar for Multi-Task Learning". The new RADIal dataset and the code of our proposed deep learning model are available on the github repo!  
 <br>
