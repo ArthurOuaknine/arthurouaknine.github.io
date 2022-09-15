@@ -11,17 +11,20 @@ redirect_from:
 About Me
 ======
 
+I am a postdoctoral researcher follow at [McGill University](https://www.mcgill.ca/) and [Mila](https://mila.quebec/) (Quebec Artificial Intelligence Institute), mainly supervised by [David Rolnick](https://davidrolnick.com/). My research projects are focused on deep learning applied to climate change and forest monitoring.
+
 I completed my Ph.D. in March 2022 at Télécom Paris ([IDS department](https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal), [IMAGES Team](https://images.telecom-paristech.fr/)) and [valeo.ai](https://www.valeo.com/en/valeo-ai/), under the supervision of [Patrick Pérez](https://ptrckprz.github.io/), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/). The aim of my Ph.D. work was to use and adapt deep neural network architectures for scene understanding using automotive radar data and multi-sensor fusion.
 I graduated from M.Sc. Machine Learning and Big Data at [Télécom Paris](https://www.telecom-paris.fr/) in 2018, M.Sc. (1 and 2) in Statistical Modelling at [Paris Panthéon Sorbonne University](https://www.pantheonsorbonne.fr/) in 2016 and B.S. in Applied Mathematics at [Paris Diderot University](https://formations.univ-paris-diderot.fr/fr/index.html) in 2014.
 
 During my Ph.D., I co-organized the Deep Learning Working Group of the IMAGES Team (Télécom Paris). Presentations are available [here](https://dlwgtelecomparis.github.io/).
 
-**Announcement**: I am currently looking for a post-doc or a ML research position on deep learning methods applied to climate change mitigation (forest management, deforestation detection, wildfire detection, greenhouse gas emission estimation).  
 
 
 News
 ======
-- *04/2022*: My 2021 ICPR and ICCV articles have been quoted at the Nvidia GTC by Geoffrey Bouquot, group CTO and VP at Valeo. Link of the presentation is [here](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42391/).
+- *09/2022*: Starting my postdoc on forest monitoring using deep learning at McGill and Mila in Montreal, Canada.  
+<br>
+- *04/2022*: My 2021 ICPR and ICCV articles have been quoted at the Nvidia GTC by Geoffrey Bouquot, group CTO and VP at Valeo. Link of the presentation is [here](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s42391/).  
 <br>
 - *03/2022*: Finally defended my PhD, the manuscript is available [here](https://arxiv.org/abs/2203.08038).  
 <br>

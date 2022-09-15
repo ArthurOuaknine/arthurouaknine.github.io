@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arthur Ouaknine's Personal Page"
 title_separator          : "-"
 name                     : &name "Arthur Ouaknine"
-description              : &description "Graduated PhD at Télécom Paris and valeo.ai"
+description              : &description "Resercher Fellow at McGill University and Mila. Graduated PhD at Télécom Paris and valeo.ai"
 url                      : https://arthurouaknine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ArthurOuaknine/arthurouaknine.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Arthur Ouaknine"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at Télécom Paris and valeo.ai"
-  location         : "Paris, France"
+  bio              : "Researcher Fellow at McGill University and Mila"
+  location         : "Montreal, Québec, Canada"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=OCT3E9wAAAAJ&hl=en"
