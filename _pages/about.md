@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<br/><img src='/images/quebec_forest.JPG'>
+
 About Me
 ======
 
