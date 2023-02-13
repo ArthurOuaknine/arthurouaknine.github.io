@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/quebec_forest.JPG'>
-
 About Me
 ======
 
@@ -21,6 +19,8 @@ I graduated from M.Sc. Machine Learning and Big Data at [Télécom Paris](https:
 
 During my Ph.D., I co-organized the Deep Learning Working Group of the IMAGES Team (Télécom Paris). Presentations are available [here](https://dlwgtelecomparis.github.io/).  
 
+
+<br/><img src='/images/quebec_forest.JPG'>
 
 
 News
