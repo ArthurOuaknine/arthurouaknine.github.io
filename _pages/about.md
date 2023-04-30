@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ======
 
-I am a postdoctoral researcher fellow at [McGill University](https://www.mcgill.ca/) and [Mila](https://mila.quebec/) (Quebec Artificial Intelligence Institute), supervised by [David Rolnick](https://davidrolnick.com/). My research projects are focused on multimodal and multitask deep learning applied to forest monitoring. I'm also a core team member of [Climate Change AI](https://www.climatechange.ai/) leading the webinars team.  
+I am a postdoctoral researcher fellow at [McGill University](https://www.mcgill.ca/) and [Mila](https://mila.quebec/) (Quebec Artificial Intelligence Institute), in collaboration with [David Rolnick](https://davidrolnick.com/). My research projects are focused on multimodal and multitask deep learning applied to forest monitoring. I'm also a core team member of [Climate Change AI](https://www.climatechange.ai/) leading the webinar team.  
 
 I completed my Ph.D. in March 2022 in collaboration between [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) ([Télécom Paris](https://www.telecom-paris.fr/); [IDS department](https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal), [IMAGES Team](https://images.telecom-paristech.fr/)) and [valeo.ai](https://www.valeo.com/en/valeo-ai/), under the supervision of [Patrick Pérez](https://ptrckprz.github.io/), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/). The aim of my Ph.D. work was to use and adapt deep neural network architectures for scene understanding using automotive radar data and multi-sensor fusion.  
 
