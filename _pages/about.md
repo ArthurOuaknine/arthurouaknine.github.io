@@ -25,6 +25,8 @@ During my Ph.D., I co-organized the Deep Learning Working Group of the IMAGES Te
 
 News
 ======
+- *11/2023*: Our new work [OpenForest: A data catalogue for machine learning in forest monitoring](https://arxiv.org/abs/2311.00277) is now on ArXiv! The [OpenForest catalogue](https://github.com/RolnickLab/OpenForest) is also available on github.  
+<br>  
 - *02/2023*: Starting a core team member position at Climate Change AI as the webinar team leader.  
 <br>
 - *09/2022*: Starting my postdoc on forest monitoring using deep learning at McGill and Mila in Montreal, Canada.  
