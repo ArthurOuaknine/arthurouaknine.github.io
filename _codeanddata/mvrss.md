@@ -1,6 +1,6 @@
 ---
 title: "Multi-View Radar Semantic Segmentation"
-excerpt: "<br/><img src='/images/mvrss_teaser.png'>"
+excerpt: "<br/><img src='/images/mvrss_teaser.png' width=600px height=auto><br><br><br>"
 collection: codeanddata
 permalink: /codeanddata/mvrss
 ---

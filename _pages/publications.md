@@ -16,6 +16,12 @@ author_profile: true
 {% endfor %}
 
 
+**OpenForest: A data catalogue for machine learning in forest monitoring**  
+**Arthur Ouaknine**, Teja Kattenborn, Etienne Laliberté, David Rolnick.  
+*ArXiv 2023*  
+[[paper](https://arxiv.org/abs/2311.00277)][[code and data](https://github.com/RolnickLab/OpenForest)]  
+
+
 **Raw High-Definition Radar for Multi-Task Learning**  
 Julien Rebut, **Arthur Ouaknine**, Waqas Malik, Patrick Pérez.  
 *CVPR 2022*  
@@ -37,7 +43,7 @@ Julien Rebut, **Arthur Ouaknine**, Waqas Malik, Patrick Pérez.
 
 ---
 
-## Thesis
+## PhD thesis
 
 **Deep learning for radar data exploitation of autonomous vehicle**  
 **Arthur Ouaknine**  
