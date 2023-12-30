@@ -9,6 +9,6 @@ location: "Palaiseau, France"
 ---
 
 
-Assistant Professor
+Teaching assistant
 + Introduction to image processing
 + Introduction to computer vision
