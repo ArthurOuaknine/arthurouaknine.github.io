@@ -25,6 +25,8 @@ During my Ph.D., I co-organized the Deep Learning Working Group of the IMAGES Te
 
 News
 ======
+- *12/2023*: Our new work [FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models](https://arxiv.org/abs/2312.10114) is now on ArXiv! Code and datasets will be release soon.  
+<br>  
 - *11/2023*: Our new work [OpenForest: A data catalogue for machine learning in forest monitoring](https://arxiv.org/abs/2311.00277) is now on ArXiv! The [OpenForest catalogue](https://github.com/RolnickLab/OpenForest) is also available on github.  
 <br>  
 - *02/2023*: Starting a core team member position at Climate Change AI as the webinar team leader.  
