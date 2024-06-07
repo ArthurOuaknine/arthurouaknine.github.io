@@ -11,20 +11,32 @@ redirect_from:
 About Me
 ======
 
-I am a postdoctoral researcher fellow at [McGill University](https://www.mcgill.ca/) and [Mila](https://mila.quebec/) (Quebec Artificial Intelligence Institute), in collaboration with [David Rolnick](https://davidrolnick.com/). My research projects are focused on multimodal and multitask deep learning applied to forest monitoring. I'm also a core team member of [Climate Change AI](https://www.climatechange.ai/) leading the webinar team.  
+<div style="text-align: justify">
+I am a postdoctoral researcher fellow at  <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/" target="_blank">Mila</a> (Quebec Artificial Intelligence Institute), in collaboration with <a href="https://davidrolnick.com/" target="_blank">David Rolnick</a>. My research projects are focused on multi-modal and multi-task deep learning for remote sensing applied to forest monitoring. I am co-founder and chief technical officer (CTO) of <a href="https://rubisco.ai/" target="_blank">Rubisco AI</a>, a Mila startup that aims to monitor forest restoration projects. I am also a core team member of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> where I lead the webinar team and I co-lead the organization of the CCAI workshop at <a href="https://www.climatechange.ai/events/iclr2024" target="_blank">ICLR 2024</a>.  
+</div>
+<br>
+<div style="text-align: justify">
+I completed my Ph.D. in March 2022 in collaboration between <a href="https://www.ip-paris.fr/en" target="_blank">Institut Polytechnique de Paris</a> (<a href="https://www.telecom-paris.fr/en" target="_blank">Télécom Paris</a>; <a href="https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal" target="_blank">IDS department</a>, <a href="https://www.telecom-paris.fr/en/research/labs/information-processing-ltci/teams/image-modeling-analysis-geometry-synthesis/staff" target="_blank">IMAGES Team</a>)) and <a href="https://www.valeo.com/en/valeo-ai/" target="_blank">valeo.ai</a>, under the supervision of <a href="https://ptrckprz.github.io/" target="_blank">Patrick Pérez</a>, <a href="https://perso.telecom-paristech.fr/tupin/" target="_blank">Florence Tupin</a> and  <a href="https://sites.google.com/site/alasdairnewson/" target="_blank">Alasdair Newson</a>. The aim of my Ph.D. work was to use and adapt deep neural network architectures for scene understanding using automotive radar data and multi-sensor fusion.
+</div>
+<div style="text-align: justify">
+I graduated from M.Sc. Machine Learning and Big Data at <a href="https://www.telecom-paris.fr/en" target="_blank">Télécom Paris</a> in 2018, M.Sc. (1 and 2) in Statistical Modelling at <a href="https://www.pantheonsorbonne.fr/" target="_blank">Paris Panthéon Sorbonne University</a> in 2016 and B.S. in Applied Mathematics at <a href="https://u-paris.fr/" target="_blank">Paris Diderot University</a> in 2014.
+</div>
+<div style="text-align: justify">
+During my Ph.D., I co-organized the Deep Learning Working Group of the IMAGES Team (Télécom Paris). Presentations are available <a href="https://dlwgtelecomparis.github.io/" target="_blank">here</a>.
+</div>
 
-I completed my Ph.D. in March 2022 in collaboration between [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) ([Télécom Paris](https://www.telecom-paris.fr/); [IDS department](https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal), [IMAGES Team](https://images.telecom-paristech.fr/)) and [valeo.ai](https://www.valeo.com/en/valeo-ai/), under the supervision of [Patrick Pérez](https://ptrckprz.github.io/), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/). The aim of my Ph.D. work was to use and adapt deep neural network architectures for scene understanding using automotive radar data and multi-sensor fusion.  
-
-I graduated from M.Sc. Machine Learning and Big Data at [Télécom Paris](https://www.telecom-paris.fr/) in 2018, M.Sc. (1 and 2) in Statistical Modelling at [Paris Panthéon Sorbonne University](https://www.pantheonsorbonne.fr/) in 2016 and B.S. in Applied Mathematics at [Paris Diderot University](https://formations.univ-paris-diderot.fr/fr/index.html) in 2014.  
-
-During my Ph.D., I co-organized the Deep Learning Working Group of the IMAGES Team (Télécom Paris). Presentations are available [here](https://dlwgtelecomparis.github.io/).  
+<br><img src='/images/quebec_forest.JPG'><br>
 
 
-<br/><img src='/images/quebec_forest.JPG'>
+
 
 
 News
 ======
+- *05/2024*: We (<a href="https://irbv.umontreal.ca/le-personnel/etienne-laliberte/?lang=en" target="_blank">Prof. Etienne Laliberté</a> and I) officially started **<a href="https://rubisco.ai/" target="_blank">Rubisco AI</a>**, a Mila startup that aims to monitor forest restoration projects. Have a look to <a href="https://rubisco.ai/demo/" target="_blank">our demo here</a>. More details to come soon.  
+<br>  
+- *05/2024*: Our workshop **[Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/iclr2024)** was held in Vienna at ICLR 2024. All accepter papers and the fully recording of the workshop are available online at [this url](https://www.climatechange.ai/events/iclr2024).  
+<br>  
 - *12/2023*: Our new work [FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models](https://arxiv.org/abs/2312.10114) is now on ArXiv! Code and datasets will be release soon.  
 <br>  
 - *11/2023*: Our new work [OpenForest: A data catalogue for machine learning in forest monitoring](https://arxiv.org/abs/2311.00277) is now on ArXiv! The [OpenForest catalogue](https://github.com/RolnickLab/OpenForest) is also available on github.  

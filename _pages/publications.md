@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+**FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models**  
+Nikolaos Ioannis Bountos, **Arthur Ouaknine**, David Rolnick.  
+*ArXiv 2024*  
+[[paper](https://arxiv.org/abs/2312.10114)][[code and data](https://github.com/RolnickLab/FoMo-Bench)]  
+
 
 **OpenForest: A data catalogue for machine learning in forest monitoring**  
 **Arthur Ouaknine**, Teja Kattenborn, Etienne Laliberté, David Rolnick.  
@@ -47,4 +52,5 @@ Julien Rebut, **Arthur Ouaknine**, Waqas Malik, Patrick Pérez.
 
 **Deep learning for radar data exploitation of autonomous vehicle**  
 **Arthur Ouaknine**  
+*Institut Polytechnique de Paris, Télécom Paris, 2022*  
 [[Thesis](https://arxiv.org/abs/2203.08038)]  
