@@ -12,7 +12,12 @@ About Me
 ======
 
 <div style="text-align: justify">
-I am a postdoctoral researcher fellow at  <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/" target="_blank">Mila</a> (Quebec Artificial Intelligence Institute), in collaboration with <a href="https://davidrolnick.com/" target="_blank">David Rolnick</a>. My research projects are focused on multi-modal and multi-task deep learning for remote sensing applied to forest monitoring. I am co-founder and chief technical officer (CTO) of <a href="https://rubisco.ai/" target="_blank">Rubisco AI</a>, a Mila startup that aims to monitor forest restoration projects. I am also a core team member of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> where I lead the webinar team and I co-led the organization of the CCAI workshop at <a href="https://www.climatechange.ai/events/iclr2024" target="_blank">ICLR 2024</a>.  
+I am a postdoctoral researcher fellow at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/" target="_blank">Mila</a> (Quebec Artificial Intelligence Institute), in collaboration with <a href="https://davidrolnick.com/" target="_blank">Prof. David Rolnick</a>. My research projects are focused on multi-modal and multi-task deep learning for remote sensing applied to forest monitoring. I am co-founder and chief technical officer (CTO) of <a href="https://rubisco.ai/" target="_blank">Rubisco AI</a>, a Mila startup that aims to monitor forest restoration projects. I am also a core team member of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> where I lead the webinar team, co-led the organization of the CCAI workshop at <a href="https://www.climatechange.ai/events/iclr2024" target="_blank">ICLR 2024</a> and co-organized the CCAI workshop at <a href="https://www.climatechange.ai/events/neurips2024" target="_blank">NeurIPS 2024</a>.  
+</div>
+<br>
+
+<div style="text-align: justify">
+I hold the <a href="https://ivado.ca/en/scholarships-and-grants/entrepreneur-postdoc-fellowships/" target="_blank">IVADO Postdoc Entrepreneur Fellowship</a>, which supports my innovative work in forest monitoring. My expertise spans deep learning, computer vision, and remote sensing, with a strong emphasis on sustainability and environmental impact.  
 </div>
 <br>
 
@@ -27,9 +32,12 @@ I graduated from M.Sc. Machine Learning and Big Data at <a href="https://www.tel
 
 
 
-
 News
 ======
+- *10/2024*: Our paper **[OpenForest: A data catalogue for machine learning in forest monitoring](https://arxiv.org/abs/2311.00277)** has been accepted in Environmental Data Science (journal). Final print will be release soon.  
+<br>  
+- *08/2024*: I’ve been granted the <a href="https://ivado.ca/en/scholarships-and-grants/entrepreneur-postdoc-fellowships/" target="_blank">IVADO Postdoc Entrepreneur Fellowship</a> to support and develop further our project, **<a href="https://rubisco.ai/" target="_blank">Rubisco AI</a>**.  
+<br>  
 - *06/2024*: I'm invited to speak at the Mila Entrepreneurs' Night on AI for Climate (register <a href="https://partiful.com/e/YRJ4tsVESgqx0Uc7HViq" target="_blank">here</a>).  
 <br>  
 - *05/2024*: We (<a href="https://irbv.umontreal.ca/le-personnel/etienne-laliberte/?lang=en" target="_blank">Prof. Etienne Laliberté</a> and I) officially started **<a href="https://rubisco.ai/" target="_blank">Rubisco AI</a>**, a Mila startup that aims to monitor forest restoration projects. Have a look to <a href="https://rubisco.ai/demo/" target="_blank">our demo here</a>. More details to come soon.  

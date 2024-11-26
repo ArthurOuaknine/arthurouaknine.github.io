@@ -20,10 +20,14 @@ Nikolaos Ioannis Bountos, **Arthur Ouaknine**, David Rolnick.
 *ArXiv 2024*  
 [[paper](https://arxiv.org/abs/2312.10114)][[code and data](https://github.com/RolnickLab/FoMo-Bench)]  
 
+**Tree semantic segmentation from aerial image time series**  
+Venkatesh Ramesh, **Arthur Ouaknine**, David Rolnick.  
+*ArXiv 2024*  
+[[paper](https://arxiv.org/abs/2407.13102)]  
 
 **OpenForest: A data catalogue for machine learning in forest monitoring**  
 **Arthur Ouaknine**, Teja Kattenborn, Etienne Laliberté, David Rolnick.  
-*ArXiv 2023*  
+*Environmental Data Science 2024*  
 [[paper](https://arxiv.org/abs/2311.00277)][[code and data](https://github.com/RolnickLab/OpenForest)]  
 
 
