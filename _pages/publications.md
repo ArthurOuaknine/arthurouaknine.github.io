@@ -15,14 +15,29 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models**  
-Nikolaos Ioannis Bountos, **Arthur Ouaknine**, David Rolnick.  
-*ArXiv 2024*  
+**SelvaBox: A high-resolution dataset for tropical tree crown detection**  
+Hugo Baudchon, **Arthur Ouaknine**, Martin Weiss, Mélisande Teng, Thomas R. Walla, Antoine Caron-Guay, Christopher Pal, Etienne Laliberté.  
+*ArXiv 2025*  
+[[paper](https://arxiv.org/abs/2507.00170)][[code CanopyRS](https://github.com/hugobaudchon/CanopyRS)][[code geodataset](https://github.com/hugobaudchon/geodataset)][[dataset](https://huggingface.co/datasets/CanopyRS/SelvaBox)]  
+
+**Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery**  
+Mélisande Teng, **Arthur Ouaknine**, Etienne Laliberté, Yoshua Bengio, David Rolnick, Hugo Larochelle.  
+*ArXiv 2025*  
+[[paper](https://arxiv.org/abs/2506.04970)][code TBA]  
+
+**GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction**  
+Eya Cherif, **Arthur Ouaknine**, Luke A. Brown, Phuong D. Dao, Kyle R. Kovach, Bing Lu, Daniel Mederer, Hannes Feilhauer, Teja Kattenborn, David Rolnick.  
+*ArXiv 2025*  
+[paper TBA][[code](https://github.com/echerif18/HyspectraSSL)][[dataset](https://huggingface.co/datasets/Avatarr05/GreenHyperSpectra)]  
+
+**FoMo: Multi-Modal, Multi-Scale and Multi-Task Remote Sensing Foundation Models for Forest Monitoring**  
+Nikolaos Ioannis Bountos, **Arthur Ouaknine**, Ioannis Papoutsis, David Rolnick.  
+*AAAI 2025*  
 [[paper](https://arxiv.org/abs/2312.10114)][[code and data](https://github.com/RolnickLab/FoMo-Bench)]  
 
 **Tree semantic segmentation from aerial image time series**  
 Venkatesh Ramesh, **Arthur Ouaknine**, David Rolnick.  
-*ArXiv 2024*  
+*Environmental Data Science 2025*  
 [[paper](https://arxiv.org/abs/2407.13102)]  
 
 **OpenForest: A data catalogue for machine learning in forest monitoring**  

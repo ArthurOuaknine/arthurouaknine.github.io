@@ -34,7 +34,15 @@ I graduated from M.Sc. Machine Learning and Big Data at <a href="https://www.tel
 
 News
 ======
-- *10/2024*: Our paper **[OpenForest: A data catalogue for machine learning in forest monitoring](https://arxiv.org/abs/2311.00277)** has been accepted in Environmental Data Science (journal). Final print will be release soon.  
+- *07/2025*: Invited talk at the **[LASTIG lab](https://www.umr-lastig.fr/)** of the National Institute of Geographic and Forest Information (IGN), in Champs-sur-Marne, France.  
+<br>
+- *07/2025*: Invited talk at the **[CMCC workshop on AI for Carbon](https://www.cmcc.it/lectures_conferences/icc-program-workshop-on-artificial-intelligence-for-carbon)** in Como, Italy.  
+<br>
+- *05/2025*: Invited talk at **[Yale Center for Natural Carbon Capture](https://naturalcarboncapture.yale.edu/)** Spring Symposium, in New Haven, USA.  
+<br>  
+- *12/2024*: Our paper **[FoMo: Multi-Modal, Multi-Scale and Multi-Task Remote Sensing Foundation Models for Forest Monitoring](https://arxiv.org/abs/2312.10114)** has been accepted and will be presented at AAAI.  
+<br>  
+- *10/2024*: Our paper **[OpenForest: A data catalogue for machine learning in forest monitoring](https://arxiv.org/abs/2311.00277)** has been accepted in Environmental Data Science (journal).  
 <br>  
 - *08/2024*: I’ve been granted the <a href="https://ivado.ca/en/scholarships-and-grants/entrepreneur-postdoc-fellowships/" target="_blank">IVADO Postdoc Entrepreneur Fellowship</a> to support and develop further our project, **<a href="https://rubisco.ai/" target="_blank">Rubisco AI</a>**.  
 <br>  
