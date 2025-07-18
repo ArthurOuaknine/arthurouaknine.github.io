@@ -22,7 +22,7 @@ Accepted at ICPR 2020
 
 The **code** is available on Github: [https://github.com/valeoai/carrada_dataset](https://github.com/valeoai/carrada_dataset)
 
-**Access the CARRADA dataset using the following link: [download](http://download.tsi.telecom-paristech.fr/Carrada).**
+**Access the CARRADA dataset using the following link: [http://download.tsi.telecom-paristech.fr/Carrada](http://download.tsi.telecom-paristech.fr/Carrada).**
 - Carrada.tar.gz (23GB): synchronized camera and radar views with generated annotations and materials for the semi-automatic pipeline
 - Carrada_RAD.tar.gz (176GB): RAD tensor per sequence only
 
