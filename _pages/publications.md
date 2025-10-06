@@ -22,13 +22,13 @@ Hugo Baudchon, **Arthur Ouaknine**, Martin Weiss, Mélisande Teng, Thomas R. Wal
 
 **Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery**  
 Mélisande Teng, **Arthur Ouaknine**, Etienne Laliberté, Yoshua Bengio, David Rolnick, Hugo Larochelle.  
-*ArXiv 2025*  
+*NeurIPS 2025*  
 [[paper](https://arxiv.org/abs/2506.04970)][code TBA]  
 
 **GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction**  
 Eya Cherif, **Arthur Ouaknine**, Luke A. Brown, Phuong D. Dao, Kyle R. Kovach, Bing Lu, Daniel Mederer, Hannes Feilhauer, Teja Kattenborn, David Rolnick.  
-*ArXiv 2025*  
-[paper TBA][[code](https://github.com/echerif18/HyspectraSSL)][[dataset](https://huggingface.co/datasets/Avatarr05/GreenHyperSpectra)]  
+*NeurIPS 2025 (Dataset & Benchmark Track)*  
+[[paper](https://arxiv.org/abs/2507.06806)][[code](https://github.com/echerif18/HyspectraSSL)][[dataset](https://huggingface.co/datasets/Avatarr05/GreenHyperSpectra)]  
 
 **FoMo: Multi-Modal, Multi-Scale and Multi-Task Remote Sensing Foundation Models for Forest Monitoring**  
 Nikolaos Ioannis Bountos, **Arthur Ouaknine**, Ioannis Papoutsis, David Rolnick.  
