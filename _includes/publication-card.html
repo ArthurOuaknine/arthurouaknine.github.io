@@ -1,0 +1,63 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="card">
+  {% if teaser %}
+  <div class="card__image">
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+      <img src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{{ title }}">
+    </a>
+  </div>
+  {% endif %}
+  
+  <div class="card__content">
+    <h3 class="card__title">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h3>
+    
+    <div class="card__meta">
+      {% if post.venue %}
+        <span class="card__badge card__badge--venue">{{ post.venue }}</span>
+      {% endif %}
+      {% if post.date %}
+        <span class="card__badge card__badge--year">{{ post.date | date: "%Y" }}</span>
+      {% endif %}
+    </div>
+
+    {% if post.excerpt %}
+      <p class="card__description">{{ post.excerpt | markdownify | strip_html | truncatewords: 30 }}</p>
+    {% endif %}
+
+    {% if post.paperurl or post.citation %}
+    <div class="card__links">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" class="btn-modern btn-modern--primary" target="_blank">
+          <i class="fas fa-file-pdf"></i> Paper
+        </a>
+      {% endif %}
+      {% if post.codeurl %}
+        <a href="{{ post.codeurl }}" class="btn-modern btn-modern--secondary" target="_blank">
+          <i class="fab fa-github"></i> Code
+        </a>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+</div>

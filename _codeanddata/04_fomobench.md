@@ -1,13 +1,14 @@
 ---
-title: "FoMo-Bench: a multi-modal, multi-scale and multi-task forest monitoring benchmark for remote sensing foundation models"
+title: "FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models"
 excerpt: "<br/><img src='/images/fomobench_teaser.png' width=600px height=auto><br><br><br>"
 collection: codeanddata
 permalink: /codeanddata/fomobench
+venue: "AAAI 2025"
 ---
 
 [Nikolaos Ioannis Bountos](https://ngbountos.github.io/), [Arthur Ouaknine](https://arthurouaknine.github.io/), [David Rolnick](https://davidrolnick.com/)
 
-ArXiv 2023. Under review.  
+AAAI 2025  
 
 ---
 

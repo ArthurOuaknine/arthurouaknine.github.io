@@ -54,19 +54,28 @@ $darkest-gray                : mix(#000, $gray, 90%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+/* Modern nature-inspired palette */
+$forest-green               : #2d5f3f;
+$forest-green-light         : #3a7a52;
+$forest-green-dark          : #1e4029;
+$sage-green                 : #8b9d83;
+$sky-blue                   : #4a90a4;
+$earth-brown                : #6b5b4f;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
+$body-color                 : #fff;
+$background-color           : #fafbfc;
+$code-background-color      : #f6f8fa;
+$code-background-color-dark : $light-gray;
+$text-color                 : #2c3e50;
+$text-light                 : #5a6c7d;
+$border-color               : #e1e4e8;
+
+$primary-color              : $forest-green;
+$accent-color               : $sky-blue;
+$success-color              : #48b685;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-/*$info-color                 : #52adc8;*/
-$info-color                 : $darkest-gray;
+$info-color                 : $forest-green-dark;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -92,11 +101,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : $accent-color;
+$link-color-hover           : $forest-green;
+$link-color-visited         : mix(#000, $accent-color, 15%);
+$masthead-link-color        : $text-color;
+$masthead-link-color-hover  : $forest-green;
 
 
 /*
@@ -148,8 +157,11 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 8px;
+$border-radius-lg           : 12px;
+$box-shadow                 : 0 2px 8px rgba(0, 0, 0, 0.08);
+$box-shadow-hover           : 0 4px 16px rgba(0, 0, 0, 0.12);
+$box-shadow-lg              : 0 8px 24px rgba(0, 0, 0, 0.15);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$global-transition          : all 0.2s ease-in-out;
+$global-transition          : all 0.3s cubic-bezier(0.4, 0, 0.2, 1);

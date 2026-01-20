@@ -3,11 +3,12 @@ title: "Multi-View Radar Semantic Segmentation"
 excerpt: "<br/><img src='/images/mvrss_teaser.png' width=600px height=auto><br><br><br>"
 collection: codeanddata
 permalink: /codeanddata/mvrss
+venue: "ICCV 2021"
 ---
 
 [Arthur Ouaknine](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Patrick Pérez](https://ptrckprz.github.io/)
 
-ICCV 2021.
+ICCV 2021  
 
 ---
 

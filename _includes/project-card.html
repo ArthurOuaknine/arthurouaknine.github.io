@@ -1,0 +1,58 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+{% comment %}Extract image URL from excerpt{% endcomment %}
+{% assign excerpt_content = post.excerpt | strip %}
+{% assign img_start = excerpt_content | split: "src='" %}
+{% if img_start.size > 1 %}
+  {% assign img_url_raw = img_start[1] | split: "'" | first %}
+  {% assign has_image = true %}
+{% else %}
+  {% assign img_start = excerpt_content | split: 'src="' %}
+  {% if img_start.size > 1 %}
+    {% assign img_url_raw = img_start[1] | split: '"' | first %}
+    {% assign has_image = true %}
+  {% else %}
+    {% assign has_image = false %}
+  {% endif %}
+{% endif %}
+
+{% comment %}Get venue from frontmatter{% endcomment %}
+{% assign venue = post.venue %}
+
+<div class="card">
+  {% if has_image %}
+  <div class="card__image">
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+      <img src="{{ base_path }}{{ img_url_raw }}" alt="{{ title }}">
+    </a>
+  </div>
+  {% endif %}
+  
+  <div class="card__content">
+    <h3 class="card__title">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h3>
+
+    {% if venue %}
+    <div class="card__meta">
+      <span class="card__badge card__badge--venue">{{ venue }}</span>
+    </div>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p class="card__description">{{ post.excerpt | markdownify | strip_html | truncatewords: 40 }}</p>
+    {% endif %}
+
+    <div class="card__links">
+      <a href="{{ base_path }}{{ post.url }}" class="btn-modern btn-modern--primary">
+        <i class="fas fa-arrow-right"></i> View Project
+      </a>
+    </div>
+  </div>
+</div>

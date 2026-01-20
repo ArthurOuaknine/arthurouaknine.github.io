@@ -3,11 +3,12 @@ title: "OpenForest: A data catalogue for machine learning in forest monitoring"
 excerpt: "<br/><img src='/images/openforest_teaser.png' width=600px height=auto><br><br><br>"
 collection: codeanddata
 permalink: /codeanddata/openforest
+venue: "Environmental Data Science 2025"
 ---
 
 [Arthur Ouaknine](https://arthurouaknine.github.io/), [Teja Kattenborn](https://rsc4earth.de/authors/tkattenborn/), [Etienne Laliberté](https://irbv.umontreal.ca/le-personnel/etienne-laliberte/?lang=en), [David Rolnick](https://davidrolnick.com/)
 
-ArXiv 2023. Under review.  
+Environmental Data Science 2025  
 
 ---
 

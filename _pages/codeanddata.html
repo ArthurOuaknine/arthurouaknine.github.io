@@ -5,12 +5,10 @@ permalink: /codeanddata/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
+<div class="projects-grid">
 {% for post in site.codeanddata reversed %}
-  {% include archive-single.html %}
+  {% include project-card.html %}
 {% endfor %}
+</div>

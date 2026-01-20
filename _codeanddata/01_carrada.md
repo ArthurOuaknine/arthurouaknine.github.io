@@ -3,11 +3,12 @@ title: "CARRADA Dataset: Camera and Automotive Radar with Range-Angle-Doppler An
 excerpt: "<br/><img src='/images/carrada.png' width=600px height=auto><br><br><br>"
 collection: codeanddata
 permalink: /codeanddata/carrada
+venue: "ICPR 2020"
 ---
 
 [Arthur Ouaknine](https://arthurouaknine.github.io/), [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), [Julien Rebut](https://scholar.google.com/citations?user=BJcQNcoAAAAJ&hl=fr), [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Patrick Pérez](https://ptrckprz.github.io/)
 
-Accepted at ICPR 2020
+ICPR 2020   
 
 ---
 

@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<p style="margin-bottom: 2em;">My research focuses on multi-modal deep learning for remote sensing and forest monitoring. {% if author.googlescholar %}You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>{% endif %}</p>
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<div class="section-header" style="margin-top: 3em;">
+  <h2>Conferences and Journals</h2>
+</div>
 
 **SelvaBox: A high-resolution dataset for tropical tree crown detection**  
 Hugo Baudchon, **Arthur Ouaknine**, Martin Weiss, Mélisande Teng, Thomas R. Walla, Antoine Caron-Guay, Christopher Pal, Etienne Laliberté.  
@@ -67,7 +69,9 @@ Julien Rebut, **Arthur Ouaknine**, Waqas Malik, Patrick Pérez.
 
 ---
 
-## PhD thesis
+<div class="section-header" style="margin-top: 3em;">
+  <h2>PhD Thesis</h2>
+</div>
 
 **Deep learning for radar data exploitation of autonomous vehicle**  
 **Arthur Ouaknine**  
