@@ -105,6 +105,78 @@
   background: $sky-blue;
 }
 
+/* Publication Link Buttons */
+.pub-link {
+  display: inline-block;
+  padding: 0.3em 0.8em;
+  margin: 0.2em 0.3em 0.2em 0;
+  font-size: $type-size-7;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: $global-transition;
+  
+  &--paper {
+    background: lighten($forest-green, 45%);
+    color: $forest-green-dark;
+    border: 1px solid lighten($forest-green, 35%);
+    
+    &:hover {
+      background: lighten($forest-green, 35%);
+      color: $forest-green-dark;
+      transform: translateY(-1px);
+    }
+  }
+  
+  &--code {
+    background: lighten($accent-color, 45%);
+    color: darken($accent-color, 15%);
+    border: 1px solid lighten($accent-color, 35%);
+    
+    &:hover {
+      background: lighten($accent-color, 35%);
+      color: darken($accent-color, 15%);
+      transform: translateY(-1px);
+    }
+  }
+  
+  &--dataset {
+    background: lighten(#9b59b6, 35%);
+    color: darken(#9b59b6, 10%);
+    border: 1px solid lighten(#9b59b6, 25%);
+    
+    &:hover {
+      background: lighten(#9b59b6, 25%);
+      color: darken(#9b59b6, 10%);
+      transform: translateY(-1px);
+    }
+  }
+  
+  &--poster {
+    background: lighten(#e67e22, 35%);
+    color: darken(#e67e22, 15%);
+    border: 1px solid lighten(#e67e22, 25%);
+    
+    &:hover {
+      background: lighten(#e67e22, 25%);
+      color: darken(#e67e22, 15%);
+      transform: translateY(-1px);
+    }
+  }
+  
+  &--page {
+    background: lighten($text-color, 50%);
+    color: $text-color;
+    border: 1px solid lighten($text-color, 40%);
+    
+    &:hover {
+      background: lighten($text-color, 40%);
+      color: $text-color;
+      transform: translateY(-1px);
+    }
+  }
+}
+
 /* Publication Grid */
 .publications-grid {
   display: grid;
