@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 <div style="text-align: justify; margin-bottom: 1.5em;">
-I am a postdoctoral researcher fellow at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/" target="_blank">Mila</a> (Quebec AI Institute), in collaboration with <a href="https://davidrolnick.com/" target="_blank">Prof. David Rolnick</a> and <a href="https://bio.umontreal.ca/repertoire-departement/professeurs/professeur/in/in18974/sg/Etienne%20Lalibert%C3%A9/}" target="_blank">Prof. Etienne Laliberté</a>. My research projects are focused on multi-modal and multi-task deep learning for remote sensing applied to forest monitoring. I am co-founder and chief technical officer (CTO) of <a href="https://rubisco.ai/" target="_blank">Rubisco AI</a>, a Mila startup that aims to monitor forest restoration projects. I was also a core team member of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> where I lead the webinar team, co-led the organization of the CCAI workshop at <a href="https://www.climatechange.ai/events/iclr2024" target="_blank">ICLR 2024</a> and co-organized the CCAI workshop at <a href="https://www.climatechange.ai/events/neurips2024" target="_blank">NeurIPS 2024</a>.  
+I am a postdoctoral researcher fellow at <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> and <a href="https://mila.quebec/" target="_blank">Mila</a> (Quebec AI Institute), in collaboration with <a href="https://davidrolnick.com/" target="_blank">Prof. David Rolnick</a> and <a href="https://bio.umontreal.ca/repertoire-departement/professeurs/professeur/in/in18974/sg/Etienne%20Lalibert%C3%A9/}" target="_blank">Prof. Etienne Laliberté</a>. My research projects are focused on multi-modal and multi-task deep learning for remote sensing applied to forest monitoring. I was previously co-founder and chief technical officer (CTO) of Rubisco AI, a Mila startup that aimed to monitor forest restoration projects. I was also a core team member of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> where I lead the webinar team, co-led the organization of the CCAI workshop at <a href="https://www.climatechange.ai/events/iclr2024" target="_blank">ICLR 2024</a> and co-organized the CCAI workshop at <a href="https://www.climatechange.ai/events/neurips2024" target="_blank">NeurIPS 2024</a>.  
 </div>
 
 <div style="text-align: justify; margin-bottom: 1.5em;">
@@ -35,6 +35,11 @@ I graduated from M.Sc. Machine Learning and Big Data at <a href="https://www.tel
 </div>
 
 <div class="news-section">
+<div class="news-item">
+  <span class="news-item__date">01/2026</span>
+  <div class="news-item__content">One paper accepted at <strong>ICLR 2026</strong> on tropical and generalist individual tree crown detection.</div>
+</div>
+
 <div class="news-item">
   <span class="news-item__date">09/2025</span>
   <div class="news-item__content">Two accepted papers at <strong>NeurIPS 2025</strong> on individual tree crown segmentation and vegetation trait prediction with hyperspectral data.</div>

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p style="margin-bottom: 2em;">My research focuses on multi-modal deep learning for remote sensing and forest monitoring. {% if author.googlescholar %}You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>{% endif %}</p>
+<p style="margin-bottom: 2em;">My research focuses on computer vision and machine learning applied to remote sensing. More specifically, I am interested in multi-modal and multi-task deep learning for biodiversity applications. {% if author.googlescholar %}You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>{% endif %}</p>
 
 {% include base_path %}
 
@@ -17,9 +17,14 @@ author_profile: true
   <h2>Conferences and Journals</h2>
 </div>
 
+**SelvaMask: Segmenting Trees in Tropical Forests and Beyond**  
+Simon-Olivier Duguay, Hugo Baudchon, Etienne Laliberté, Helene Muller-Landau, Gonzalo Rivas-Torres, **Arthur Ouaknine**.  
+*ArXiv 2026*  
+[[paper](https://arxiv.org/abs/2602.02426)][[code CanopyRS](https://github.com/hugobaudchon/CanopyRS)][[code geodataset](https://github.com/hugobaudchon/geodataset)][[dataset](https://huggingface.co/datasets/CanopyRS/SelvaMask)]  
+
 **SelvaBox: A high-resolution dataset for tropical tree crown detection**  
 Hugo Baudchon, **Arthur Ouaknine**, Martin Weiss, Mélisande Teng, Thomas R. Walla, Antoine Caron-Guay, Christopher Pal, Etienne Laliberté.  
-*ArXiv 2025*  
+*ICLR 2026*  
 [[paper](https://arxiv.org/abs/2507.00170)][[code CanopyRS](https://github.com/hugobaudchon/CanopyRS)][[code geodataset](https://github.com/hugobaudchon/geodataset)][[dataset](https://huggingface.co/datasets/CanopyRS/SelvaBox)]  
 
 **Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery**  
