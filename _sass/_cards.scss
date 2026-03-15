@@ -175,6 +175,18 @@
       transform: translateY(-1px);
     }
   }
+  
+  &--video {
+    background: lighten(#e74c3c, 35%);
+    color: darken(#e74c3c, 10%);
+    border: 1px solid lighten(#e74c3c, 25%);
+    
+    &:hover {
+      background: lighten(#e74c3c, 25%);
+      color: darken(#e74c3c, 10%);
+      transform: translateY(-1px);
+    }
+  }
 }
 
 /* Publication Grid */

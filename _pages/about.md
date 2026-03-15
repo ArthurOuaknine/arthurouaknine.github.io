@@ -36,6 +36,11 @@ I graduated from M.Sc. Machine Learning and Big Data at <a href="https://www.tel
 
 <div class="news-section">
 <div class="news-item">
+  <span class="news-item__date">03/2026</span>
+  <div class="news-item__content">My talk "<em>Learning to generalize across modalities and scales for forest remote sensing</em>" at the European Space Agency Φ-Lab is available on <strong><a href="https://www.youtube.com/watch?app=desktop&v=Xr24NHMw_N8" target="_blank">Youtube</a></strong>.</div>
+</div>
+
+<div class="news-item">
   <span class="news-item__date">01/2026</span>
   <div class="news-item__content">One paper accepted at <strong>ICLR 2026</strong> on tropical and generalist individual tree crown detection.</div>
 </div>

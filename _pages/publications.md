@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<p style="margin-bottom: 2em;">My research focuses on computer vision and machine learning applied to remote sensing. More specifically, I am interested in multi-modal and multi-task deep learning for biodiversity applications. {% if author.googlescholar %}You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>{% endif %}</p>
+<p style="margin-bottom: 2em;">My research focuses on computer vision and machine learning applied to remote sensing. More specifically, I am interested in multi-modal and multi-task deep learning for biodiversity applications.
+</p>
+{% if site.author.googlescholar %}The full list of publications and preprints is available on <u><a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</u>{% endif %}
 
 {% include base_path %}
 
@@ -100,3 +102,11 @@ Julien Rebut, **Arthur Ouaknine**, Waqas Malik, Patrick Pérez.
 **Arthur Ouaknine**  
 *Institut Polytechnique de Paris, Télécom Paris, 2022*  
 <a href="https://arxiv.org/abs/2203.08038" class="pub-link pub-link--paper">Thesis</a>  
+
+---
+
+<div class="section-header" style="margin-top: 3em;">
+  <h2>Blog Posts</h2>
+</div>
+
+<p>Check out my <a href="/blog-posts/">blog posts</a> for more informal writings and tutorials.</p>
